@@ -1,0 +1,16 @@
+D:\Netcore\bubblesort\bin\Debug\net5.0\bubblesort.exe
+D:\Netcore\bubblesort\bin\Debug\net5.0\bubblesort.deps.json
+D:\Netcore\bubblesort\bin\Debug\net5.0\bubblesort.runtimeconfig.json
+D:\Netcore\bubblesort\bin\Debug\net5.0\bubblesort.runtimeconfig.dev.json
+D:\Netcore\bubblesort\bin\Debug\net5.0\bubblesort.dll
+D:\Netcore\bubblesort\bin\Debug\net5.0\ref\bubblesort.dll
+D:\Netcore\bubblesort\bin\Debug\net5.0\bubblesort.pdb
+D:\Netcore\bubblesort\obj\Debug\net5.0\bubblesort.csproj.AssemblyReference.cache
+D:\Netcore\bubblesort\obj\Debug\net5.0\bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Netcore\bubblesort\obj\Debug\net5.0\bubblesort.AssemblyInfoInputs.cache
+D:\Netcore\bubblesort\obj\Debug\net5.0\bubblesort.AssemblyInfo.cs
+D:\Netcore\bubblesort\obj\Debug\net5.0\bubblesort.csproj.CoreCompileInputs.cache
+D:\Netcore\bubblesort\obj\Debug\net5.0\bubblesort.dll
+D:\Netcore\bubblesort\obj\Debug\net5.0\ref\bubblesort.dll
+D:\Netcore\bubblesort\obj\Debug\net5.0\bubblesort.pdb
+D:\Netcore\bubblesort\obj\Debug\net5.0\bubblesort.genruntimeconfig.cache

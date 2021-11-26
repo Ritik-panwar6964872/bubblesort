@@ -15,7 +15,7 @@ namespace bubblesort
              {
             if(numbers[j]>numbers[j+1])
             {
-                int temp= numbers[j];
+                int temp = numbers[j];
                 numbers[j]=numbers[j+1];
                 numbers[j+1]=temp;
             }
